@@ -1,0 +1,9 @@
+26/10/23
+    03. Importando validações e gerando clientes
+    
+    comando para criar nova branch para dividir as aulas:
+        git checkout -b <nome da branch>
+        
+    comando para subir o código numa branch específica:
+        git push --set-upstream https://github.com/chanrley/django-rest-framework-.git <nome da branch>
+        
