@@ -1,0 +1,13 @@
+asgiref
+astroid
+Django==4.2.6
+djangorestframework
+isort
+lazy-object-proxy
+mccabe
+pylint
+pytz
+six
+sqlparse
+toml
+wrapt
