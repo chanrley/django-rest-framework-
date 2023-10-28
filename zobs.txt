@@ -12,8 +12,48 @@
         git push --set-upstream https://github.com/chanrley/django-rest-framework-.git 03_Importando_validacoes_e_gerando_clientes
     bug aos 02:52 postado no fórum da aula 02 Paginação
     comando CTRL + P encontra o arquivo por nome
-    
 
-Para postar no Linkedin no final do curso:
-    Aprendi no curso:
-        Expressões regulares
+
+    
+    Para saber Mais: Plataformas para o deploy
+
+        Nesta aula, mostramos como realizar o deploy de uma API Django REST na AWS, por ser um dos serviços mais populares atualmente.
+
+        Entretanto, este é um serviço pago. A AWS fornece algumas funcionalidades de forma gratuita nos primeiros 12 meses e após esse período, ou caso você utilize algum serviço pago, a utilização gratuita é encerrada,
+
+        Existem algumas outras opções de plataformas de deploy para você explorar em seus projetos Django REST.
+        Fly.io
+
+        O Fly.io é uma alternativa bastante conhecida para deploy, por sua simplicidade e facilidade de uso.
+
+        Não existe um plano gratuito no Fly.io, mas é possível usar alguns recursos gratuitos em todos os planos. O mais vantajoso para projetos pessoais é o Hobby plan, que oferece recursos gratuitos e só cobra pelos pagos conforme você os utiliza.
+
+        A desvantagem dessa opção é que mesmo para usar somente as ferramentas gratuitas, é necessário informar os dados de cartão de crédito.
+
+        Acesse o site do Fly.io ou ainda, clique para o deploy de uma aplicação em Django.
+        Railway
+
+        O Railway é uma plataforma de serviços em nuvem que possibilita o deploy de pequenas até grandes aplicações. Ela fornece um plano gratuito para você explorar os recursos sem exigir os dados de um cartão de crédito.
+
+        Acesse o site do Railway e a documentação para o deploy de uma aplicação em Django.
+        Render
+
+        O Render é uma plataforma de serviço em nuvem para fazer o deploy e rodar suas aplicações de forma gratuita, sem a necessidade de informar os dados de um cartão de crédito. Acesse a página do Render.
+
+        Ele possui uma excelente documentação para orientar subir aplicações nas mais diversas linguagens. Acesse a documentação para o deploy em Django.
+        PythonAnywhere
+
+        O PythonAnywhere é um serviço da Anaconda que fornece um ambiente de desenvolvimento integrado e um serviço de hospedagem web baseado na linguagem de programação Python.
+
+        Ele possibilita usar uma conta gratuita por tempo indeterminado, mas com algumas limitações, como um único web app. Com ele, é possível realizar o deploy da sua API em Django REST.
+
+        Não é necessário informar dados de cartão de crédito para usar a conta gratuita. Acesse o PythonAnywheree a documentação para deploy de uma aplicação Django.
+
+
+    Para postar no Linkedin no final do curso:
+        Aprendi no curso:
+            Expressões regulares
+            Filtros
+            Buscas
+            Configurar projeto para Deploy na AWS EC2 (Amazon Web Services)
+            Disponibilizar o projeto para utilização de todos
