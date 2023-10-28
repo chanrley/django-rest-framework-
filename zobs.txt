@@ -5,13 +5,15 @@
         git checkout -b <nome da branch>
         
     comando para subir o código numa branch específica:
-        git push --set-upstream https://github.com/chanrley/django-rest-framework-.git <nome da branch>
+        git push --set-upstream https://github.com/chanrley/django-rest-framework-.git 03_Importando_validacoes_e_gerando_clientes <nome da branch>
 
 28/10/23
+    subindo aula 03:
+        git push --set-upstream https://github.com/chanrley/django-rest-framework-.git 03_Importando_validacoes_e_gerando_clientes
+    bug aos 02:52 postado no fórum da aula 02 Paginação
+    comando CTRL + P encontra o arquivo por nome
+    
 
-
-
-
-Para postar no Linkedin:
+Para postar no Linkedin no final do curso:
     Aprendi no curso:
         Expressões regulares
