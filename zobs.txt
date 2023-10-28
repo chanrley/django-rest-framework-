@@ -6,4 +6,12 @@
         
     comando para subir o código numa branch específica:
         git push --set-upstream https://github.com/chanrley/django-rest-framework-.git <nome da branch>
-        
+
+28/10/23
+
+
+
+
+Para postar no Linkedin:
+    Aprendi no curso:
+        Expressões regulares
